@@ -1,0 +1,65 @@
+{
+  "FoodBeverages": [
+    {
+      "id": "1",
+      "username": "Cha Yen Thai",
+      "branch": "Cha Yen Thai - Latumenten",
+      "address": "Season City - Jakarta Barat",
+      "price": "Di bawah Rp. 50.000 /orang",
+      "uri": "https://tempatdotcom.s3-ap-southeast-1.amazonaws.com/server/media/branch/3569/img/sm_picture-1535086658.png",
+      "rating": "5.0",
+      "category": "Restaurant",
+      "wishlist": "true",
+      "booked": "1200",
+      "rate": [50, 60, 50]
+    },
+    {
+      "id": "2",
+      "username": "Loving Hut",
+      "branch": "Loving Hut - Tanjung Duren",
+      "address": "Tanjung Duren - Jakarta Barat",
+      "price": "Di bawah Rp. 50.000 /orang",
+      "uri": "https://tempatdotcom.s3-ap-southeast-1.amazonaws.com/server/media/branch/8626/img/sm_picture-1555133734.jpg",
+      "rating": "5.0",
+      "category": "Restaurant",
+      "booked": "1000",
+      "rate": [50, 60, 50]
+    },
+    {
+      "id": "3",
+      "username": "Angus House",
+      "branch": "Angus House - Thamrin",
+      "address": "Plaza Indonesia - Jakarta Pusat",
+      "price": "Di atas Rp. 200.000 /orang",
+      "uri": "https://tempatdotcom.s3-ap-southeast-1.amazonaws.com/server/media/branch/752/img/sm_picture-1558727822.jpg",
+      "rating": "5.0",
+      "category": "Restaurant",
+      "booked": "1200",
+      "rate": [50, 60, 50]
+    },
+    {
+      "id": "4",
+      "username": "Kedai Incu",
+      "branch": "Kedai Incu - Pulo Gadung",
+      "address": "Pulo Gadung - Jakarta Timur",
+      "price": "Di bawah Rp. 50.000 /orang",
+      "uri": "https://tempatdotcom.s3-ap-southeast-1.amazonaws.com/server/media/branch/7178/img/sm_picture-1542442198.JPG",
+      "rating": "5.0",
+      "category": "Restaurant",
+      "booked": "1200",
+      "rate": [50, 60, 50]
+    },
+    {
+      "id": "5",
+      "username": "King Seafood",
+      "branch": "King Seafood - Cilandak",
+      "address": "Ampera Garden - Jakarta Selatan",
+      "price": "Rp. 50.000 - Rp. 100.000 /orang",
+      "uri": "https://tempatdotcom.s3-ap-southeast-1.amazonaws.com/server/media/branch/7607/img/sm_picture-1517728593.jpg",
+      "rating": "5.0",
+      "category": "Restaurant",
+      "booked": "1200",
+      "rate": [50, 60, 50]
+    }
+  ]
+}
